@@ -2,7 +2,7 @@
 //  FilterCollectionViewCell.swift
 //  SmartCamera
 //
-//  Created by Home on 3/13/21.
+//  Created by Dayo Banjo on 3/13/21.
 //
 
 import UIKit

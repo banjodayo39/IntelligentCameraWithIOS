@@ -15,9 +15,6 @@
 		F4B2AE2225FCBA9000933CB5 /* SmartCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE2125FCBA9000933CB5 /* SmartCameraTests.swift */; };
 		F4B2AE2D25FCBA9000933CB5 /* SmartCameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE2C25FCBA9000933CB5 /* SmartCameraUITests.swift */; };
 		F4B2AE4125FCBB3900933CB5 /* FilterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE4025FCBB3900933CB5 /* FilterCollectionViewCell.swift */; };
-		F4B2AE4D25FCC7F700933CB5 /* CoreGraphicsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE4C25FCC7F700933CB5 /* CoreGraphicsExtension.swift */; };
-		F4B2AE5225FCC83700933CB5 /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE5125FCC83700933CB5 /* FaceView.swift */; };
-		F4B2AE5725FCC87A00933CB5 /* FinalFaceVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4B2AE5625FCC87A00933CB5 /* FinalFaceVc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,9 +49,6 @@
 		F4B2AE2C25FCBA9000933CB5 /* SmartCameraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartCameraUITests.swift; sourceTree = "<group>"; };
 		F4B2AE2E25FCBA9000933CB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4B2AE4025FCBB3900933CB5 /* FilterCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterCollectionViewCell.swift; sourceTree = "<group>"; };
-		F4B2AE4C25FCC7F700933CB5 /* CoreGraphicsExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreGraphicsExtension.swift; sourceTree = "<group>"; };
-		F4B2AE5125FCC83700933CB5 /* FaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
-		F4B2AE5625FCC87A00933CB5 /* FinalFaceVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalFaceVc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,9 +106,6 @@
 				F4B2AE1525FCBA9000933CB5 /* LaunchScreen.storyboard */,
 				F4B2AE1825FCBA9000933CB5 /* Info.plist */,
 				F4B2AE4025FCBB3900933CB5 /* FilterCollectionViewCell.swift */,
-				F4B2AE4C25FCC7F700933CB5 /* CoreGraphicsExtension.swift */,
-				F4B2AE5125FCC83700933CB5 /* FaceView.swift */,
-				F4B2AE5625FCC87A00933CB5 /* FinalFaceVc.swift */,
 			);
 			path = SmartCamera;
 			sourceTree = "<group>";
@@ -267,12 +258,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4B2AE5725FCC87A00933CB5 /* FinalFaceVc.swift in Sources */,
 				F4B2AE0F25FCBA8D00933CB5 /* ViewController.swift in Sources */,
-				F4B2AE4D25FCC7F700933CB5 /* CoreGraphicsExtension.swift in Sources */,
 				F4B2AE0B25FCBA8D00933CB5 /* AppDelegate.swift in Sources */,
 				F4B2AE4125FCBB3900933CB5 /* FilterCollectionViewCell.swift in Sources */,
-				F4B2AE5225FCC83700933CB5 /* FaceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
